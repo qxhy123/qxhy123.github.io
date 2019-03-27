@@ -3,7 +3,9 @@ layout: post
 title: Linux内核学习阶段总结
 author: "我不叫大脸猫"
 header-style: text
-
+tags:
+    - linux kernel
+    - 学习笔记
 ---
 
 

@@ -3,7 +3,9 @@ layout: post
 title: 与Bochs的战斗第一回合
 author: "我不叫大脸猫"
 header-style: text
-
+tags:
+    - bochs
+    - 操作系统
 ---
 
 
