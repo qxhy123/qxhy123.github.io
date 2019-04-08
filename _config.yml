@@ -78,5 +78,9 @@ friends: [
     {
          title: "我不叫大脸猫的容器研究所",
          href: "http://qxhy123.github.io/"
+    },
+    {
+        title: "Mengkang's land",
+        href= "https://mengkang.net"
     }
 ]
