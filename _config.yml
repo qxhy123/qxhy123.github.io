@@ -1,10 +1,10 @@
 # Site settings
-title: 我不叫大脸猫的容器研究所
-SEOTitle: 我不叫大脸猫的博客 | 我不叫大脸猫的容器研究所
+title: 我不叫大脸猫的技术研究所
+SEOTitle: 我不叫大脸猫的博客 | 我不叫大脸猫的技术研究所
 header-img: img/home-bg-o.jpg
 email: qxhy123@gmail.com
-description: "深入剖析Linux容器 | 我不叫大脸猫，Web & Container Lover，Software Engineer | 这里是 @我不叫大脸猫 qxhy123 的个人博客，与你一起发现更大的世界。"
-keyword: "我不叫大脸猫, qxhy123, 博客, 个人网站, 互联网, Web, PHP, 容器, Docker, Golang, Kubernetes, k8s, Service Mesh"
+description: "机器学习, 深度学习, 数据库内核, 分布式数据库, 深入剖析Linux容器 | 我不叫大脸猫，Web & Container Lover，Software Engineer | 这里是 @我不叫大脸猫 qxhy123 的个人博客，与你一起发现更大的世界。"
+keyword: "我不叫大脸猫, qxhy123, 博客, 个人网站, 互联网, 机器学习, 深度学习, 数据库内核, 分布式数据库, Web, Java, PHP, 容器, Docker, Golang, Kubernetes, k8s, Service Mesh"
 url: "https://qxhy123.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -76,7 +76,7 @@ page-mathjax: false
 # Friends
 friends: [
     {
-         title: "我不叫大脸猫的容器研究所",
+         title: "我不叫大脸猫的技术研究所",
          href: "http://qxhy123.github.io/"
     },
     {
